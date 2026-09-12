@@ -305,7 +305,7 @@ function App() {
             <h2>Más cerca de ti</h2>
 
             <p>
-              pagina web creada para facilitar la ubicación de las estaciones de acción segura en la ciudad de Guayaquil, Ecuador.
+              Pagina web creada para facilitar la ubicación de las estaciones de acción segura en la ciudad de Guayaquil, Ecuador.
             </p>
           </div>
 
