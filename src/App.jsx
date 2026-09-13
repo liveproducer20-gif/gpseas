@@ -332,8 +332,7 @@ function App() {
       <footer>
         <div>
           <strong>Estaciones de Acción Segura</strong>
-          <p>todos los derechos reservados</p>
-        </div>
+           </div>
 
         <p>Guayaquil, Ecuador</p>
       </footer>
